@@ -1,4 +1,4 @@
-# Project 5 - Rendering a scene using OpenGL
+# Project 5 - Rendering a scene using C++ and OpenGL
 By Dylan Olthoff and Rylan Casanova
 
 Coursework documentation can be found in 'CST-310 Project 5.docx'
