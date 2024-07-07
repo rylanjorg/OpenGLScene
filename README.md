@@ -3,6 +3,8 @@ By Dylan Olthoff and Rylan Casanova
 
 Coursework documentation can be found in 'CST-310 Project 5.docx'
 
+'Comparison.png' shows a side-by-side comparison of the real-life scene versus the scene created using OpenGL
+
 ## Steps for running scene
 1. Install Ubuntu
 2. Install g++ and packages to get OpenGL working in Ubuntu (glut, GLU, GL)
